@@ -3,9 +3,9 @@
 ##
 
 <div align="center">
-  <a href="https://github.com/Taynapsi">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Taynapsi&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Taynapsi&layout=compact&langs_count=7&theme=dracula"/>
+  <a href="https://github.com/taynadev">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=taynadev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taynadev&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
   ##
